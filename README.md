@@ -11,5 +11,10 @@ Carpeta contenedora del curso "Javascript: Introducción a la Orientación a Obj
 ## 📌 Comentarios adicionales 
 Proyecto culminado.
 
+## 📂 División/Organización de la carpeta
+* Archivo script.js: Archivo principal en cual instanciamos Cuenta y Cliente.
+* Archivo clienteBanco: Archivo en cual se declara la clase y constructor de Cliente.
+* Archivo cuentaBanco: Archivos en el cual se declara la clase, constructor, métodos get y set, y métodos varios.
+
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
