@@ -1,0 +1,20 @@
+{
+  "name": "cuentabanco",
+  "version": "1.0.0",
+  "description": "Gestión de cuentas de un Banco, con el tema principal de Orientación de Objetos",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K3yJey/javascript-orientacionObjetos.git"
+  },
+  "author": "Kevin Madrid",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/K3yJey/javascript-orientacionObjetos/issues"
+  },
+  "homepage": "https://github.com/K3yJey/javascript-orientacionObjetos#readme"
+}
