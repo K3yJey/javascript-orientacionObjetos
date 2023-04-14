@@ -1,5 +1,5 @@
-import { clienteBanco } from "./clienteBanco.js";
-import { cuentaBanco } from "./cuentaBanco.js";
+import { clienteBanco } from "./script/clienteBanco.js";
+import { cuentaBanco } from "./script/cuentaBanco.js";
 
 //Instanciamos un cliente y cuenta 1
 const cliente = new clienteBanco("Jesús Romero", "12345678");
